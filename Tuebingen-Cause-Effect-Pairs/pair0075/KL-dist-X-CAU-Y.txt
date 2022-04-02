@@ -1,0 +1,4 @@
+ave_dist = 0.088999
+KLDist  weight    KLDist*weight   Percent
+0.071135  0.615385  0.043775          49.19%
+0.117582  0.384615  0.045224          50.81%

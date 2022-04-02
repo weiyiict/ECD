@@ -1,0 +1,6 @@
+ave_dist = 0.020077
+BDist  weight    BDist*weight   Percent
+NaN  0.000000  NaN            NaN%
+NaN  0.000000  NaN            NaN%
+NaN  0.000000  NaN            NaN%
+0.062239  0.322581  0.020077          100.00%

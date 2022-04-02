@@ -1,0 +1,4 @@
+ave_dist = 0.049670
+WassDist  weight    WassDist*weight   Percent
+0.044151  0.562500  0.024835          50.00%
+0.056765  0.437500  0.024835          50.00%

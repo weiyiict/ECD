@@ -1,0 +1,5 @@
+ave_dist = 0.000000
+KLDist  weight    KLDist*weight   Percent
+0.000000  0.285714  0.000000            NaN%
+0.000000  0.342857  0.000000            NaN%
+0.000000  0.371429  0.000000            NaN%
