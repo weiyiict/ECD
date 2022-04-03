@@ -4,7 +4,7 @@ function [caudir,aveDistx2y,aveDisty2x,info] = ECD(dtype,X,Y,alpha,gamma, prepat
 %   dtype: the type of the distance between two probability  distributions
 %          'WAS': Wasserstein Distance
 %          'KL' : Kullback-Leibler Distance
-%          'CCD': Conditional Distribution Divergence
+%          'BD' : Bregman Distance
 %   X,Y: are 1-dimensional arrays
 %   alpha: the min size of an effect samples set {Y|X=xi}
 %   gamma: the parameter of scaling down 

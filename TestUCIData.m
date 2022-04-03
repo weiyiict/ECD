@@ -36,7 +36,7 @@ str = clock;
 [caudir,aveDistx2y,aveDisty2x,info] = ECD(dtype,X,Y1,alpha,gamma,prepath);
 cls = clock;
 if strcmp(info,'ok') == 1
-  if strcmp('X->Y',caudir) == 1
+    if strcmp('X->Y',caudir) == 1
         sucnum = sucnum +1;
         flag = '  Success';
     else errnum = errnum +1;
@@ -59,7 +59,7 @@ str = clock;
 [caudir,aveDistx2y,aveDisty2x,info] = ECD(dtype,X,Y2,alpha,gamma,prepath);
 cls = clock;
 if strcmp(info,'ok') == 1
-  if strcmp('X->Y',caudir) == 1
+    if strcmp('X->Y',caudir) == 1
         sucnum = sucnum +1;
         flag = '  Success';
     else errnum = errnum +1;

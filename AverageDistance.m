@@ -5,7 +5,7 @@ function [ave_dist,flag] = AverageDistance(dtype,domain,NoisePopuDistr,NoiseDist
 %   dtype: the type of the distance between two probability  distributions
 %          'WAS': Wasserstein Distance
 %          'KL' : Kullback-Leibler Distance
-%          'BD': Bregman Distance
+%          'BD' : Bregman Distance
 %   domain: domain of a random varibale (an incremental discrete sequence)
 %   NoisePopuDistr: populational distribution of noise 
 %   NoiseDistrArray: distribution of $n$ noises
