@@ -99,5 +99,5 @@ end
 
 disp(['sucnum is  ',num2str(sucnum)]);
 disp(['errnum is  ',num2str(errnum)]);
-disp(['accuracy is  ',num2str(100*sucnum/(errnum+sucnum)),'%']);
+disp(['accuracy on TuebingenData is  ',num2str(100*sucnum/(errnum+sucnum)),'%']);
 end
